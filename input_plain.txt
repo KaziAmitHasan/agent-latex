@@ -1,0 +1,4 @@
+Product,Units,Revenue
+Widget A,10,125
+Widget B,5,60
+Widget C,0,0

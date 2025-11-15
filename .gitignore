@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# macOS
+.DS_Store
+
+# Outputs
+outputs/
+agentlearn/
